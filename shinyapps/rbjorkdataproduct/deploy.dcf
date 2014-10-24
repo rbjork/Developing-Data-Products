@@ -1,0 +1,4 @@
+name: deploy
+account: rbjorkdataproduct
+bundleId: 68402
+url: http://rbjorkdataproduct.shinyapps.io/deploy
